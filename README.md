@@ -25,6 +25,8 @@ Carefully drop each block to build the tallest tower possible. Experience dynami
 
 ## 🛠️ Tech Stack
 
+
+
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,10 +36,9 @@ Carefully drop each block to build the tallest tower possible. Experience dynami
 ---
 
 ## 🙌 Credits
-- Developed by [Hassan Haseen](https://github.com/hassanhaseen)  
+- Developed by JC 
 - Inspired by classic stacking games and modern WebGL animations
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and share!
+feel free to use
